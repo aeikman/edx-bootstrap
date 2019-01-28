@@ -4,9 +4,9 @@
 // ------------------------
 
 // Bootstrap built in functions, required by variables override
-//@import 'bootstrap/scss/functions';
-@import 'node_modules/bootstrap-material-design/scss/core/bootstrap/functions';
-
+@import 'bootstrap/scss/functions';
+//@import 'bootstrap-material-design/scss/core/bootstrap/functions';
+@import 'bootstrap-material-design/scss/bootstrap-material-design';
 // Open edX variables
 @import 'variables';
 
