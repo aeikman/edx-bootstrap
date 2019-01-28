@@ -6,7 +6,7 @@
 // To use, include this reset before all other Bootstrap references
 // within the consuming application or package's pipeline.
 
-@import "~bootstrap/scss/reboot";
+@import "~bootstrap-material/scss/reboot";
 @import "edx/_theme";
 
 // The Open edX platform's legacy base font size is 62.5%. This
